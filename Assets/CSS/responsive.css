@@ -1,0 +1,414 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .container {
+        width: 1170px;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .banner-title {
+        font-weight: 600;
+        font-size: 61px;
+    }
+    .banner-booking {
+        padding: 30px 49px;
+    }
+    .item-text > h1 {
+        font-size: 45px;
+    }
+    .item-top {
+        grid-gap: 30px 26px;
+    }
+    .blog-main {
+        grid-template-rows: 168px 278px 220px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .banner-booking__top {
+        width: 806px;
+        padding: 20px 0px;
+    }
+    .banner-booking__action {
+        margin-left: 20px;
+        width: 283px;
+    }
+    .banner-booking__list {
+        width: 632px;
+    }
+    .banner-booking__desc {
+        font-size: 14px;
+    }
+    .item-top {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 23px 26px;
+    }
+    .top-banner {
+        width: 461px;
+    }
+    .tour-slick-slider-image img {
+        width: 315px;
+        height: 431px;
+    }
+    .banner-word-desc_row {
+        height: 384px;
+    }
+    .banner-word-body-main h1 {
+        font-size: 15px;
+    }
+    .blog-main-item-decs h1 {
+        font-size: 24px;
+        line-height: 0px;
+    }
+    .cites-desc-body {
+        padding: 0px 16px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-content {
+        margin-left: -25px;
+    }
+    .name {
+        margin-right: 10px;
+    }
+    .banner-title {
+        font-weight: 600;
+        font-size: 54px;
+        line-height: 62px;
+        top: 25%;
+    }
+    .banner-booking__top {
+        width: 594px;
+    }
+    .banner-booking__action {
+        width: 263px;
+    }
+    .banner-booking__list {
+        width: 405px;
+    }
+    .banner-booking__input {
+        font-size: 7px;
+    }
+    .banner-booking__name {
+        font-size: 10px;
+    }
+    .banner-booking__addDate {
+        font-size: 10px;
+    }
+    .banner-booking__btn .btn {
+        font-size: 12px;
+    }
+    .item-text > h1 {
+        font-size: 37px;
+        line-height: 63px;
+    }
+    .item-text > p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .item-top {
+        grid-gap: 23px 15px;
+        margin-top: 34px;
+    }
+    .top-banner {
+        width: 166px;
+    }
+    .main-body > h1 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .main-body > p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    .banner-header {
+        margin-top: 88px;
+    }
+    .main-text > h1 {
+        font-size: 30px;
+        line-height: 52px;
+    }
+    .main-text > p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .blog-main {
+        grid-template-rows: 167px 197px 159px;
+        grid-gap: 15px;
+    }
+    .blog-main-item-decs h1 {
+        padding: 9px 15px;
+        font-size: 21px;
+        line-height: 4px;
+    }
+    .blog-main-item-text {
+        width: 47px;
+    }
+    .blog-main-item-decs-text p {
+        font-size: 15px;
+    }
+    .blog-main-item-decs-text img {
+        width: 18px;
+        height: 18px;
+    }
+    .blog-main-item-decs-text {
+        margin-top: -6px;
+    }
+    .tour-header > h1 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .tour-slick-slider-image img {
+        height: 350px;
+    }
+    .banner-word-text h1 {
+        font-size: 32px;
+        line-height: 46px;
+    }
+    .banner-word-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .banner-word-body-main p {
+        font-size: 12px;
+    }
+    .banner-word-body-main h1 {
+        font-size: 10px;
+    }
+    .banner-word-body-header .body-header-text {
+        font-size: 10px;
+        line-height: 8px;
+    }
+    .banner-word-body-footer {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .cites-text h1 {
+        font-size: 37px;
+        line-height: 55px;
+    }
+    .cites-text p {
+        font-size: 20px;
+        line-height: 19px;
+    }
+    .cites-desc {
+        width: calc((100% - 20px) / 2);
+    }
+    .desc-body-header {
+        font-size: 18px;
+        line-height: 17px;
+    }
+    .desc-body-txt {
+        padding: 4px 0;
+    }
+    .desc-body-main h1 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .desc-body-main p {
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .desc-body-main {
+        margin-bottom: 24px;
+    }
+    .cites-desc-body a {
+        padding: 7px 8px;
+        font-size: 12px;
+    }
+    .cites-desc-image {
+        padding: 18px 9px;
+    }
+    .passion-text h1 {
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .passion-text p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .passion-text {
+        padding: 13px 10px;
+    }
+    .offters-row h1 {
+        font-size: 28px;
+        line-height: 40px;
+        display: flex;
+    }
+    .offters-row p {
+        font-size: 12px;
+        line-height: 23px;
+    }
+    .subscribe-btn .form input {
+        width: 273px;
+        font-size: 14px;
+    }
+    .form-action {
+        right: 48px;
+        font-size: 13px;
+        transform: translateY(-68px);
+    }
+    .offers .row {
+        min-height: 173px;
+    }
+    .footer-logo h1 {
+        font-size: 17px;
+    }
+    .footer-name {
+        font-size: 11.8px;
+    }
+    .item-menu {
+        font-size: 21px;
+        line-height: 12px;
+        margin-bottom: 39px;
+    }
+    .footer-item {
+        font-size: 12px;
+        line-height: 8px;
+    }
+    .banner-booking__inner {
+        width: 328px;
+        height: 279px;
+    }
+    .banner-inner__name {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .banner-inner__address {
+        font-size: 11px;
+        line-height: 11px;
+    }
+}
+@media (max-width: 767px) {
+    .header .row > * {
+        width: auto;
+    }
+    .header-img {
+        margin-left: -52px;
+    }
+    .header-content {
+        margin-top: 10px;
+        margin-left: 210px;
+    }
+    .banner-title {
+        width: 487px;
+        top: 37%;
+        font-size: 54px;
+        line-height: 74px;
+    }
+    .banner-booking__select {
+        margin-top: 10px;
+    }
+    .banner-booking__top {
+        display: block;
+        width: auto;
+    }
+    .banner-booking__bottom {
+        display: block;
+    }
+    .banner-booking__action {
+        width: 265px;
+    }
+    .banner-booking__list {
+        display: block;
+        width: 501px;
+    }
+    .banner-booking__item {
+        width: auto;
+        height: 82px;
+        padding: 10px 24px;
+        margin-bottom: 15px;
+    }
+    .banner-booking__item:first-child:before {
+        content: none;
+    }
+    .banner-booking__item:nth-child(2):after {
+        content: none;
+    }
+    .banner-booking__btn .btn {
+        width: 100%;
+    }
+    .banner-booking__btn {
+        margin-left: auto;
+    }
+    .banner-booking {
+        left: 30px;
+        bottom: -76px;
+        padding: 30px 89px;
+    }
+    .item-text > h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .item-text > p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .item-top {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 30px 32px;
+        margin-top: 53px;
+    }
+    .main-text > h1 {
+        font-size: 37px;
+        line-height: 55px;
+    }
+    .blog-main {
+        display: block;
+    }
+    .blog-main-item {
+        margin-bottom: 20px;
+    }
+    .cites-text h1 {
+        font-size: 42px;
+        line-height: 63px;
+    }
+    .cites-row {
+        display: block;
+    }
+    .offers .offters-row {
+        display: block;
+    }
+    .offters-row h1 {
+        font-size: 37px;
+        display: flex;
+        line-height: 51px;
+    }
+    .subscribe-btn .form input {
+        width: 422px;
+        padding: 26px 48px 25px 20px;
+    }
+    .offters-row p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .form-action {
+        right: 67px;
+        transform: translateY(-33px);
+        padding: 19px 22.5px;
+    }
+    .footer-top {
+        display: block;
+    }
+    .footer-name {
+        display: none;
+    }
+    .cites-desc {
+        width: 100%;
+    }
+    .passion-text h1 {
+        font-size: 38px;
+        line-height: 60px;
+    }
+    .passion-desc {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-item {
+        margin-bottom: 20px;
+        font-size: 12px;
+        line-height: 18px;
+        color: #3b3e44;
+    }
+    .tour-slick-slider-image {
+        margin-bottom: 20px;
+    }
+}
